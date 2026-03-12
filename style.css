@@ -57,6 +57,7 @@ header > p {
     color: white;
     font-size: 1.2em;
     max-width: 500px;
+    min-width: 280px;
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
@@ -82,7 +83,7 @@ nav > a:hover {
 }
 main {
     background-color: white;
-    min-width: 250px;
+    min-width: 320px;
     max-width: 800px;
     padding: 20px;
     margin: auto;
